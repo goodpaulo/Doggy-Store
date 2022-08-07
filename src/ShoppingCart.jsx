@@ -24,7 +24,7 @@ class ShoppingCart extends Component{
                              <div className="cartRight">
                                  <div className="cartRightText">
                                     <p className="itemName">{card.name.substring(0, 10)}...</p>
-                                    <p className="itemPrice">${card.shoppingItemPrice}</p>
+                                    <p className="itemPrice">${card.shoppingItemPrice.toFixed(2)}</p>
                                  </div>
                                 <div className="buttonContainer">
                                     <button onClick={() => subtractNum(card)}
