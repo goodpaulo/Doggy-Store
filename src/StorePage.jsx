@@ -178,7 +178,7 @@ class StorePage extends Component{
         let valueAmount = arr[index].valueNum;
 
         let totalPrice = itemPrice * valueAmount;
-        arr[index].shoppingItemPrice = totalPrice.toFixed(2);
+        arr[index].shoppingItemPrice = totalPrice;
 
         this.setState({
             storeArr: arr
