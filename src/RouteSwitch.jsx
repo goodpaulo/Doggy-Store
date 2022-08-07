@@ -4,7 +4,7 @@ import StorePage from "./StorePage";
 
 const RouteSwitch = () => {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path="/" element={<App />} />
                 <Route path="/storepage" element={<StorePage />} />
