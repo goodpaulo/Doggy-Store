@@ -9,7 +9,7 @@ Users are presented with an adorable image of a cute french bulldog. Users can c
 ![image](https://user-images.githubusercontent.com/36121052/183591727-12f5b624-dd31-4d5e-b0d3-5bb3323db60d.png)
 
 
-### Store Page
+## Store Page
 
 In this page, users can select the "add to cart" button under the image of each item to add the item to their shopping cart
 
