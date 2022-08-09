@@ -15,7 +15,7 @@ In this page, users can select the "add to cart" button under the image of each 
 
 ![image](https://user-images.githubusercontent.com/36121052/183592486-66a75f4e-4d72-4924-986e-d3bfda34b314.png)
 
-##Shopping Cart
+## Shopping Cart
 
 Users can view their shopping carts and select how much of each item they would like to purchase.
 
